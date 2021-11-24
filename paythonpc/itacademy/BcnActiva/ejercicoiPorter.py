@@ -1,5 +1,6 @@
 print("que edada tienes")
 edad= int(input())
+dia=input()
 if edad >=18 :
     print("puedes pasar")
 elif edad==0 :
