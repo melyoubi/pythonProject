@@ -2,6 +2,7 @@ a = int(input())
 b = int(input())
 sum = 1
 if a > b:
+
     c = a
     a = b
     b = c
