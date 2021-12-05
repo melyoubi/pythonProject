@@ -8,6 +8,7 @@ print(letters.index('p'))
 There are a few more useful functions and methods for lists. 
 max(list): Returns the list item with the maximum value
 min(list): Returns the list item with minimum value
+len(list):o get the number of items in a list, you can use the len function
 list.count(item): Returns a count of how many times an item occurs in a list
 list.remove(item): Removes an object from a list
 list.reverse(): Reverses items in a list.
